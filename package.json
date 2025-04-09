@@ -13,6 +13,7 @@
     "@apollo/client": "^3.13.6",
     "@headlessui/react": "^2.2.1",
     "@heroicons/react": "^2.2.0",
+    "@nhost/apollo": "^8.0.7",
     "@nhost/react": "^3.10.3",
     "@nhost/react-apollo": "^17.0.3",
     "@react-google-maps/api": "^2.20.6",
