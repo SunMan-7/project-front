@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@apollo/client": "^3.7.10",
+    "@apollo/client": "^3.13.6",
     "@headlessui/react": "^2.2.1",
     "@heroicons/react": "^2.2.0",
     "@nhost/apollo": "^8.0.7",
